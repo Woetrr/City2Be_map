@@ -22,7 +22,7 @@ api_key = '5b3ce3597851110001cf62489246434e7b0d4505a18991d2ce9906be'  # API key
 
 map_params = {'location': ([52.090833, 5.122222]), 'zoom_start': 15}
 
-dataset = "C:/Users/woute/Documents/Minor/city2be/HMdb_data_utrecht.csv"
+dataset = "HMdb_data_utrecht.csv"
 lat_col = "Latitude (minus=S)"
 lon_col = "Longitude (minus=W)"
 
