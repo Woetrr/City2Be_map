@@ -18,7 +18,7 @@ def style_function(color):
     return lambda feature: dict(color=color, weight=3, opacity=0.5)
 
 # Set up the fundamentals
-api_key = '5b3ce3597851110001cf62489246434e7b0d4505a18991d2ce9906be'  # API key
+api_key = ''  # API key
 
 map_params = {'location': ([52.090833, 5.122222]), 'zoom_start': 15}
 
